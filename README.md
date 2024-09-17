@@ -1,6 +1,6 @@
 # Singular Value Decomposition (SVD)
 ### 1. Introduction to SVD:
-####Singular Value Decomposition (SVD) is a fundamental matrix factorization technique used in linear algebra. It is widely used in data science, machine learning, and signal processing for dimensionality reduction, noise reduction, and latent factor analysis.
+#### Singular Value Decomposition (SVD) is a fundamental matrix factorization technique used in linear algebra. It is widely used in data science, machine learning, and signal processing for dimensionality reduction, noise reduction, and latent factor analysis.
 #### Given a matrix A with dimensions m×n  , SVD factorizes A into three matrices: 
 ### A=UΣV^T
 #### •	U: An m×m orthogonal matrix representing the left singular vectors.
